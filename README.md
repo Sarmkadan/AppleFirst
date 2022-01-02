@@ -8,6 +8,7 @@ This sample app, Juice, uses the [AuthenticationServices][1] framework to provid
 
 For more information about implementing Sign in with Apple on iOS 12 and earlier, see [Incorporating Sign in with Apple into Other Platforms][2].
 
+
 ## Configure the Sample Code Project
 
 To configure the sample code project, perform the following steps in Xcode:
