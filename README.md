@@ -187,4 +187,4 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
 
 ---
 
-> Built by [Vladyslav Zaiets](https://sarmkadan.com) - CTO at [Red Rocket Software](https://redrocket.software)
+> Built by [Vladyslav Zaiets](https://sarmkadan.com) - CTO & Software Architect
