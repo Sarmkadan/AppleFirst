@@ -184,3 +184,7 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
 [10]:https://developer.apple.com/documentation/authenticationservices/asauthorizationappleidcredential
 [11]:https://developer.apple.com/documentation/authenticationservices/aspasswordcredential
 [12]:https://developer.apple.com/documentation/authenticationservices/asauthorizationappleidprovider/3175423-getcredentialstate
+
+---
+
+> Built by [Vladyslav Zaiets](https://sarmkadan.com) - CTO at [Red Rocket Software](https://redrocket.software)
